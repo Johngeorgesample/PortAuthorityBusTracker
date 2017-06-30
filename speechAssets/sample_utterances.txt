@@ -1,0 +1,12 @@
+PortAuthorityBusTracker how far is the {busNumber} to {busStop}
+PortAuthorityBusTracker what is the distance between {busNumber} and {busStop}
+PortAuthorityBusTracker find the distance from {busNumber} to {busStop}
+PortAuthorityBusTracker how close is {busNumber} to {busStop}
+PortAuthorityBusTracker where is the {busNumber}
+PortAuthorityBusTracker how soon will the {busNumber} be here
+PortAuthorityBusTracker what busses stop at {busStop}
+PortAuthorityBusTracker Are there any delays
+PortAuthorityBusTracker what time does the {busNumber} come
+PortAuthorityBusTracker what time does the {busNumber} come to {busStop}
+PortAuthorityBusTracker how fast is the {busNumber} going
+PortAuthorityBusTracker what was the {busNumber} last stop

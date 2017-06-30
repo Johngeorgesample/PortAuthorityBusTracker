@@ -10,3 +10,4 @@ PortAuthorityBusTracker what time does the {busNumber} come
 PortAuthorityBusTracker what time does the {busNumber} come to {busStop}
 PortAuthorityBusTracker how fast is the {busNumber} going
 PortAuthorityBusTracker what was the {busNumber} last stop
+PortAuthorityBusTracker what is the closest bus stop

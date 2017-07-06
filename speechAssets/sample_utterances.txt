@@ -1,17 +1,18 @@
-PortAuthorityBusTracker how far is the {busNumber} to {busStop}
-PortAuthorityBusTracker what is the distance between {busNumber} and {busStop}
+PortAuthorityBusTracker are there any delays
 PortAuthorityBusTracker find the distance from {busNumber} to {busStop}
 PortAuthorityBusTracker how close is {busNumber} to {busStop}
-PortAuthorityBusTracker where is the {busNumber}
+PortAuthorityBusTracker how close is {myBus}
+PortAuthorityBusTracker how far is the {busNumber} to {busStop}
+PortAuthorityBusTracker how fast is the {busNumber} going
+PortAuthorityBusTracker how many stops are there between {busStop} and {busStop}
 PortAuthorityBusTracker how soon will the {busNumber} be here
 PortAuthorityBusTracker what busses stop at {busStop}
-PortAuthorityBusTracker Are there any delays
+PortAuthorityBusTracker what is the bus number of {{routeName}}
+PortAuthorityBusTracker what is the closest bus stop
+PortAuthorityBusTracker what is the distance between {busNumber} and {busStop}
+PortAuthorityBusTracker what is the route name of the {{busNumber}}
 PortAuthorityBusTracker what time does the {busNumber} come
 PortAuthorityBusTracker what time does the {busNumber} come to {busStop}
-PortAuthorityBusTracker how fast is the {busNumber} going
 PortAuthorityBusTracker what was the {busNumber} last stop
-PortAuthorityBusTracker what is the closest bus stop
+PortAuthorityBusTracker where is the {busNumber}
 PortAuthorityBusTracker where is the closest bus stop
-PortAuthorityBusTracker what is the route name of the {{busNumber}}
-PortAuthorityBusTracker what is the bus number of {{routeName}}
-PortAuthorityBusTracker How many stops are there between {busStop} and {busStop}

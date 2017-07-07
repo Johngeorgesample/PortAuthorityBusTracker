@@ -4,6 +4,7 @@ PortAuthorityBusTracker how close is {busNumber} to {busStop}
 PortAuthorityBusTracker how close is {myBus}
 PortAuthorityBusTracker how far is the {busNumber} to {busStop}
 PortAuthorityBusTracker how fast is the {busNumber} going
+PortAuthorityBusTracker how long will it take to get to {busStop}
 PortAuthorityBusTracker how many stops are there between {busStop} and {busStop}
 PortAuthorityBusTracker how soon will the {busNumber} be here
 PortAuthorityBusTracker what busses stop at {busStop}

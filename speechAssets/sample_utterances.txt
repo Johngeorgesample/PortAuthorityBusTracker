@@ -12,6 +12,7 @@ PortAuthorityBusTracker what is the bus number of {{routeName}}
 PortAuthorityBusTracker what is the closest bus stop
 PortAuthorityBusTracker what is the distance between {busNumber} and {busStop}
 PortAuthorityBusTracker what is the route name of the {{busNumber}}
+PortAuthorityBusTracker what stops does the {busNumber} go to
 PortAuthorityBusTracker what time does the {busNumber} come
 PortAuthorityBusTracker what time does the {busNumber} come to {busStop}
 PortAuthorityBusTracker what was the {busNumber} last stop

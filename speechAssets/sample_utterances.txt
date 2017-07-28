@@ -1,20 +1,7 @@
-PortAuthorityBusTracker are there any delays
-PortAuthorityBusTracker find the distance from {busNumber} to {busStop}
-PortAuthorityBusTracker how close is {busNumber} to {busStop}
-PortAuthorityBusTracker how close is {myBus}
-PortAuthorityBusTracker how far is the {busNumber} to {busStop}
-PortAuthorityBusTracker how fast is the {busNumber} going
-PortAuthorityBusTracker how long will it take to get to {busStop}
-PortAuthorityBusTracker how many stops are there between {busStop} and {busStop}
-PortAuthorityBusTracker how soon will the {busNumber} be here
-PortAuthorityBusTracker what busses stop at {busStop}
-PortAuthorityBusTracker what is the bus number of {{routeName}}
-PortAuthorityBusTracker what is the closest bus stop
-PortAuthorityBusTracker what is the distance between {busNumber} and {busStop}
-PortAuthorityBusTracker what is the route name of the {{busNumber}}
-PortAuthorityBusTracker what stops does the {busNumber} go to
-PortAuthorityBusTracker what time does the {busNumber} come
-PortAuthorityBusTracker what time does the {busNumber} come to {busStop}
-PortAuthorityBusTracker what was the {busNumber} last stop
-PortAuthorityBusTracker where is the {busNumber}
-PortAuthorityBusTracker where is the closest bus stop
+GetBusInfo {busNumber}
+GetBusInfo where is the {busNumber}
+GetBusInfo how fast is the {busNumber} going
+GetBusInfo what time does the {busNumber} come
+GetBusInfo when does the {busNumber} come
+GetBusInfo how far away is the {busNumber}
+GetBusInfo what is the route name of the {busNumber}

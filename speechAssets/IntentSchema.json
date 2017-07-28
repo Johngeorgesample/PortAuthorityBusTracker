@@ -1,0 +1,14 @@
+{ "intents": [
+    { 
+      "intent": "GetBusInfo", 
+      "slots": [
+        {
+          "name": "busNumber",
+          "type": "string"
+        },
+      ]
+    },
+    { "intent": "AMAZON.HelpIntent" },
+    { "intent": "AMAZON.StopIntent" },
+    { "intent": "AMAZON.CancelIntent" }
+]}

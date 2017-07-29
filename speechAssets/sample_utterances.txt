@@ -5,3 +5,4 @@ GetBusInfo what time does the {busNumber} come
 GetBusInfo when does the {busNumber} come
 GetBusInfo how far away is the {busNumber}
 GetBusInfo what is the route name of the {busNumber}
+GetBusInfo where is {busNumber}
